@@ -18,7 +18,9 @@
 <img width="960" alt="2021-02-01 (14)" src="https://user-images.githubusercontent.com/60146522/106448242-84c94b80-64a8-11eb-8af0-c6302b3a9cd7.png">
 <img width="960" alt="2021-02-01 (15)" src="https://user-images.githubusercontent.com/60146522/106448254-87c43c00-64a8-11eb-83fd-23157f6afa8b.png">
 <img width="960" alt="2021-02-01 (16)" src="https://user-images.githubusercontent.com/60146522/106448256-898dff80-64a8-11eb-8ee4-bfdaf5da54f9.png">
+<h2>change name email and country</h2>
 <img width="960" alt="2021-02-01 (17)" src="https://user-images.githubusercontent.com/60146522/106448259-8b57c300-64a8-11eb-800c-c4daf8d096be.png">
+<h2>List the users</h2>
 <img width="960" alt="2021-02-01 (18)" src="https://user-images.githubusercontent.com/60146522/106448288-94e12b00-64a8-11eb-80d9-c59cabd5860e.png">
-<img width="960" alt="2021-02-01 (18)" src="https://user-images.githubusercontent.com/60146522/106448301-9874b200-64a8-11eb-82da-2e222e99127b.png">
+
 
