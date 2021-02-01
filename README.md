@@ -17,11 +17,17 @@
 <h2>Edit the user</h2>
 <img width="960" alt="2021-02-01 (14)" src="https://user-images.githubusercontent.com/60146522/106448242-84c94b80-64a8-11eb-8af0-c6302b3a9cd7.png">
 <img width="960" alt="2021-02-01 (15)" src="https://user-images.githubusercontent.com/60146522/106448254-87c43c00-64a8-11eb-83fd-23157f6afa8b.png">
-<h2>change name email and country</h2>
+<h2>Change name email and country</h2>
 <img width="960" alt="2021-02-01 (16)" src="https://user-images.githubusercontent.com/60146522/106448256-898dff80-64a8-11eb-8ee4-bfdaf5da54f9.png">
 <h2>Record updated</h2>
 <img width="960" alt="2021-02-01 (17)" src="https://user-images.githubusercontent.com/60146522/106448259-8b57c300-64a8-11eb-800c-c4daf8d096be.png">
 <h2>List the users</h2>
 <img width="960" alt="2021-02-01 (18)" src="https://user-images.githubusercontent.com/60146522/106448288-94e12b00-64a8-11eb-80d9-c59cabd5860e.png">
-
+<h2>Delete the user</h2>
+<img width="960" alt="2021-02-01 (19)" src="https://user-images.githubusercontent.com/60146522/106450402-281b6000-64ab-11eb-8044-97efc202945d.png">
+<h2>Confirm to delete the user</h2>
+<img width="960" alt="2021-02-01 (20)" src="https://user-images.githubusercontent.com/60146522/106450406-294c8d00-64ab-11eb-892a-e2ec1a990c88.png">
+<img width="960" alt="2021-02-01 (21)" src="https://user-images.githubusercontent.com/60146522/106450417-2c477d80-64ab-11eb-9c69-546ed1f620c1.png">
+<h2>List the user</h2>
+<img width="960" alt="2021-02-01 (22)" src="https://user-images.githubusercontent.com/60146522/106450420-2d78aa80-64ab-11eb-898c-84e4730b75da.png">
 
