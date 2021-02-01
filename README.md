@@ -4,7 +4,8 @@ Problem Statement
 Create a simple web application which list out all the candidates with their names in ListView,
 design a Infrastructure of app using AWS services and CI/CD integrated and implement it
 
-
+Functionality
+For WebApp: (Part 0)
 <h2>Front page of user list</h2>
 <img width="960" alt="2021-02-01 (4)" src="https://user-images.githubusercontent.com/60146522/106443355-63fdf780-64a2-11eb-8622-83a3c19788a5.png">
 <img width="960" alt="2021-02-01 (5)" src="https://user-images.githubusercontent.com/60146522/106444243-7fb5cd80-64a3-11eb-99ce-a1d4f696a894.png">
@@ -34,4 +35,19 @@ design a Infrastructure of app using AWS services and CI/CD integrated and imple
 <img width="960" alt="2021-02-01 (21)" src="https://user-images.githubusercontent.com/60146522/106450417-2c477d80-64ab-11eb-9c69-546ed1f620c1.png">
 <h2>List the user</h2>
 <img width="960" alt="2021-02-01 (22)" src="https://user-images.githubusercontent.com/60146522/106450420-2d78aa80-64ab-11eb-898c-84e4730b75da.png">
+<h2>For Infrastructure: (Part 1)
+1. Use any AWS DB as your primary DB
+2. Use serverless service for your backend APIs 
+3. Deploy frontend through S3</h2>
+
+<h2> Deploy frontend through S3</h2>
+<img width="960" alt="2021-02-01 (23)" src="https://user-images.githubusercontent.com/60146522/106451154-2900c180-64ac-11eb-91a5-76138e76595d.png">
+<h2>Use any AWS DB as your primary DB</h2>
+<img width="960" alt="2021-02-01 (24)" src="https://user-images.githubusercontent.com/60146522/106451163-2aca8500-64ac-11eb-80ac-1d39def44b51.png">
+<h2>Use serverless service for your backend APIs </h2>
+<img width="960" alt="2021-02-01 (25)" src="https://user-images.githubusercontent.com/60146522/106451165-2bfbb200-64ac-11eb-8ace-8c32e9a6d30b.png">
+
+
+
+
 
