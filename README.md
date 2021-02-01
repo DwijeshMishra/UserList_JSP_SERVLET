@@ -1,4 +1,8 @@
 # UserList_JSP_SERVLET
+MyWays DevOps Assignment
+Problem Statement
+Create a simple web application which list out all the candidates with their names in ListView,
+design a Infrastructure of app using AWS services and CI/CD integrated and implement it
 
 
 <h2>Front page of user list</h2>
