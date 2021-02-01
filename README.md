@@ -35,12 +35,12 @@ For WebApp: (Part 0)
 <img width="960" alt="2021-02-01 (21)" src="https://user-images.githubusercontent.com/60146522/106450417-2c477d80-64ab-11eb-9c69-546ed1f620c1.png">
 <h2>List the user</h2>
 <img width="960" alt="2021-02-01 (22)" src="https://user-images.githubusercontent.com/60146522/106450420-2d78aa80-64ab-11eb-898c-84e4730b75da.png">
-<h2>For Infrastructure: (Part 1)
+For Infrastructure: (Part 1)
 1. Use any AWS DB as your primary DB
 2. Use serverless service for your backend APIs 
-3. Deploy frontend through S3</h2>
+3. Deploy frontend through S3
 
-<h2> Deploy frontend through S3</h2>
+<h2>Deploy frontend through S3</h2>
 <img width="960" alt="2021-02-01 (23)" src="https://user-images.githubusercontent.com/60146522/106451154-2900c180-64ac-11eb-91a5-76138e76595d.png">
 <h2>Use any AWS DB as your primary DB</h2>
 <img width="960" alt="2021-02-01 (24)" src="https://user-images.githubusercontent.com/60146522/106451163-2aca8500-64ac-11eb-80ac-1d39def44b51.png">
