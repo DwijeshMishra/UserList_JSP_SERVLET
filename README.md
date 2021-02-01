@@ -1,7 +1,7 @@
 # UserList_JSP_SERVLET
 
 
-# Front page of user list
+<h2>Front page of user list</h2>
 <img width="960" alt="2021-02-01 (4)" src="https://user-images.githubusercontent.com/60146522/106443355-63fdf780-64a2-11eb-8622-83a3c19788a5.png">
 <img width="960" alt="2021-02-01 (5)" src="https://user-images.githubusercontent.com/60146522/106444243-7fb5cd80-64a3-11eb-99ce-a1d4f696a894.png">
 # Search Bar for user list
